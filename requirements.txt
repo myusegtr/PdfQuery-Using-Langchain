@@ -3,3 +3,12 @@ openai
 faiss-cpu
 tiktoken
 pdfminer
+
+
+# Libraries for astraDB pdf query
+
+langchain
+openai==0.26.5
+datasets
+tiktoken
+pdfminer
